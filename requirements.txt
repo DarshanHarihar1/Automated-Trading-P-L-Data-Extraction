@@ -1,0 +1,7 @@
+pyautogui
+Pillow
+AppOpener
+opencv-python
+pytesseract
+pywinauto
+pandas
